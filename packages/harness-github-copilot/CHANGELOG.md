@@ -1,5 +1,16 @@
 # @ai-sdk/harness-github-copilot
 
+## 1.0.76
+
+### Patch Changes
+
+- 0fc1f13: chore(harness): update harness adapter underlying SDKs to their latest releases
+- Updated dependencies [0fc1f13]
+- Updated dependencies [88b9575]
+  - @ai-sdk/harness-acp@1.0.119
+  - @ai-sdk/provider-utils@5.0.78
+  - @ai-sdk/harness@1.0.179
+
 ## 1.0.75
 
 ### Patch Changes

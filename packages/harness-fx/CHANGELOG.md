@@ -1,5 +1,15 @@
 # @ai-sdk/harness-fx
 
+## 1.0.95
+
+### Patch Changes
+
+- 0fc1f13: chore(harness): update harness adapter underlying SDKs to their latest releases
+- Updated dependencies [88b9575]
+  - @ai-sdk/mcp@2.0.95
+  - @ai-sdk/provider-utils@5.0.78
+  - @ai-sdk/harness@1.0.179
+
 ## 1.0.94
 
 ### Patch Changes

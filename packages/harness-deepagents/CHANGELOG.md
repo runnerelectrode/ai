@@ -1,5 +1,14 @@
 # @ai-sdk/harness-deepagents
 
+## 1.0.179
+
+### Patch Changes
+
+- 0fc1f13: chore(harness): update harness adapter underlying SDKs to their latest releases
+- Updated dependencies [88b9575]
+  - @ai-sdk/provider-utils@5.0.78
+  - @ai-sdk/harness@1.0.179
+
 ## 1.0.178
 
 ### Patch Changes

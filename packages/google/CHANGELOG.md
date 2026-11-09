@@ -1,5 +1,13 @@
 # @ai-sdk/google
 
+## 4.0.116
+
+### Patch Changes
+
+- 304dec5: Apply contiguous array-index validation to dotted numeric paths in streamed tool arguments, while preserving numeric object keys and valid contiguous array updates.
+- Updated dependencies [88b9575]
+  - @ai-sdk/provider-utils@5.0.78
+
 ## 4.0.115
 
 ### Patch Changes
